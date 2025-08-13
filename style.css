@@ -1,0 +1,38 @@
+#first{
+  height: 200px;
+  width: 200px;
+  color: blue;
+}
+/*Second Point*/
+#button1{
+  padding: 10px 15px;
+}
+/*Third Point*/
+#button2{
+  margin: 100px;
+}
+
+/*Fourth Point*/
+#button3{
+  height: 100px;
+  width: 100px;
+  border: 5px dashed red;
+  border-radius: 30px;
+  background-color: aqua;
+}
+
+/*5th Point */
+
+#box{
+  height: 100px;
+  width: 100px;
+  border: 4px solid black;
+  background-color: aquamarine;
+}
+.box1{
+  box-sizing:border-box;
+}
+
+.box2{
+  box-sizing: content-box;
+}
